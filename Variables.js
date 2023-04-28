@@ -24,4 +24,4 @@ console.log(cajón1) ;
 
 // Null
 
-var sinNada = null;
+var sinNada = null; 
